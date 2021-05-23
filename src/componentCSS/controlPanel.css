@@ -1,0 +1,22 @@
+.ControlPanel {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    /* background-color: white; */
+    height: 70%;
+}
+
+.equal {
+    color: springgreen;
+    font-size: 32px;
+}
+
+button {
+    font-size: 20px;
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}

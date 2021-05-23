@@ -1,0 +1,13 @@
+.hidden {
+    display: none;
+}
+
+.history {
+    width: 2000px;
+    background-color: gray;
+    font-size: 18px;
+    box-shadow: 5px 5px 15px 5px #000000;
+    overflow: scroll;
+    z-index: 1;
+    height: 100px;
+}

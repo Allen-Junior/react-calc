@@ -1,0 +1,23 @@
+.App {
+    border: 2px solid blue;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.DisplayBackground {
+    border: 2px solid yellow;
+    height: 35vh;
+    background-image: linear-gradient(90deg, springgreen, blue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    position: relative;
+    top: 20px;
+}
